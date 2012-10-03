@@ -1,0 +1,219 @@
+body{
+}
+
+#pagina {
+	width: 1000px;
+	margin: auto;
+	font-family: Verdana;
+        font-size: 1em;
+        color: #2b2922;
+        /*-webkit-box-shadow: 0 0 10px rgb(0,0,0);  
+        -moz-box-shadow: 0 0 10px rgb(0,0,0);  */
+        box-shadow: 0 0 10px rgb(0,0,0);  
+        /*-webkit-border-radius: 25px;
+        -moz-border-radius: 25px;*/
+        border-radius: 25px;
+}
+#pagina div {
+	margin-top: 1%;
+}
+#principal input{
+	width: 85%;
+}
+#principal input:focus{
+        background-color: olivedrab;
+        color: #fff;
+        font-weight: bold;
+}
+#principal select{
+    width: 87%;
+}
+#principal select:focus{
+        /*background-color: #e3a345;*/
+        background-color: olivedrab;
+}
+.formu_titulo{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+form img{
+    width: 20px;
+    height: 20px;
+}
+form .boton{
+    height: 2em;
+    font-family: Verdana;
+}
+#mapaflotante{
+    /*visibility: hidden;*/
+    height: 400px;
+    width: 400px;
+}
+
+.der50{
+	width: 50%;
+	float: right;
+	height: 2em;
+}
+.der75{
+	width: 75%;
+	float: right;
+	/*background-color: #00f;*/
+	height: 2em;
+}
+.izq50{
+	width: 50%;
+	float: left;
+	height: 2em;
+}
+.izq25{
+	width: 25%;
+	float: left;
+	height: 2em;
+}
+.izq30{
+	width: 33%;
+	float: left;
+	height: 2em;
+}
+.izq100{
+	width: 100%;
+	float: left;
+	height: 2em;
+}
+.cien{
+	width: 100%;
+	clear: both;
+	height: 2em;
+}
+/***
+* Fromulario parte UNO
+***/
+#div_oseo_superior{
+	width: 100%
+}
+#div_oseo_superior1{
+
+}
+#div_oseo_superior2{
+	
+}
+#div_oseo_superior2_izq{
+	width: 50%;
+	float: left;
+}
+#div_oseo_superior2_der{
+	width: 50%;
+	float: right;
+}
+#div_oseo_superior3{
+	clear: both;
+}
+#div_oseo_superior4{
+
+}
+#div_oseo_superior4_izq{
+	width: 50%;
+	float: left;
+}
+
+#div_oseo_superior4_der{
+	width: 50%;
+	float: right;
+}
+#div_oseo_superior_5{
+	clear: both;
+}
+/***
+* Fromulario parte DOS
+***/
+#div_oseo_medio{}
+#div_oseo_medio1{}
+#div_oseo_medio2{}
+#div_oseo_medio2_izq{
+	width: 50%;
+	float: left;
+}
+#div_oseo_medio2_der{
+	width: 50%;
+	float: right;
+}
+#div_oseo_medio3{
+	clear: both;
+}
+#div_oseo_medio4{}
+#div_oseo_medio4_izq{
+	width: 50%;
+	float: left;
+}
+#div_oseo_medio4_der{
+	width: 50%;
+	float: right;
+}
+#div_oseo_medio5{
+	clear: both;
+}
+#div_oseo_medio6{
+        clear: both;
+}
+
+#div_oseo_medio6_izq{
+	width: 50%;
+	float: left;
+}
+#div_oseo_medio6_izq div{
+        height: 3em;
+}
+#div_oseo_medio6_der{	
+	width: 50%;
+	float: right;
+}
+#div_oseo_medio6_der div{
+        height: 3em;
+}
+#div_oseo_medio6_pie{
+	clear: both;
+        width: 100%;
+}
+
+#div_oseo_superior_7{
+}
+/***
+* Fromulario parte TRES
+***/
+#div_oseo_inferior{}
+#div_oseo_inferior1{}
+#div_oseo_inferior2{
+    clear: both;
+}
+#div_oseo_inferior2_izq{
+	width: 50%;
+	float: left;
+}
+#div_oseo_inferior2_der{
+	width: 50%;
+	float: right;
+}
+#div_oseo_inferior3{
+	clear: both;
+}
+#div_oseo_inferior3_izq{
+	width: 50%;
+	float: left;
+}
+#div_oseo_inferior3_der{
+	width: 50%;
+	float: right;
+}
+#div_oseo_inferior3_pie{
+	clear: both;
+}
+#div_botones{
+    text-align: center;
+    color: red;
+}
+.tdzoom{
+    cursor:pointer;
+}
+
