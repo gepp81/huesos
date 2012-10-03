@@ -1,0 +1,28 @@
+/* 
+    Document   : buscar.css
+    Created on : 11/08/2011, 14:12:33
+    Author     : gpidote
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#pagina{
+    width: 1000px;
+}
+#div_izq{
+    width: 200px;
+    float: left;
+}
+#div_der{
+    width: 800px;
+    float: right;
+}
+#div_pie{
+    clear: both;
+}
+

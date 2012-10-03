@@ -1,0 +1,25 @@
+.menuv { width: 20%/*150*/; /*width of menu*/
+         /*border-style: solid solid none solid;
+	     border-color: #94AA74;*/ /*este era el borde del DIV del menu vertical*/
+         border-size: 1px;
+         border-width: 1px;
+         float: left;
+         background: #5A8F18;
+         color: #fff;
+}
+.menuv label{
+    font-weight: bold;
+}
+.menuv #enviar{
+    height: 30px;
+    width: 80px;
+}
+
+.menuv ul { margin: 0;
+            padding: 0; 
+            list-style-type: none;
+            margin: 0;
+            padding: 0;}
+
+.actual{ color: #000;
+         background-color: #000; cursor: help;}

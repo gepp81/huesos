@@ -1,0 +1,53 @@
+.menuv { 
+    width: 20%;
+    border-size: 1px;
+    border-width: 1px;
+    float: left;
+    background: #5A8F18;
+    color: #fff;
+}
+.menuv label{
+    font-weight: bold;
+}
+
+.menuv ul { margin: 0;
+            padding: 0; 
+            list-style-type: none;
+            margin: 0;
+            width: 100%;
+            padding: 0;}
+.menuv li,a{
+    /*/margin: auto;*/
+    width: 99%;
+}
+
+.actual{
+    color: #000;
+    background-color: #000; cursor: help;
+}
+
+/*#formu #enviar{
+    height: 34px;
+    width: 100%;
+    margin: auto;
+    border: 1px #327e04 solid;
+    text-align: left;
+}*/
+#formu input{
+    text-align: center;
+    width: 99%;
+    margin-left: 1%;
+    height: 25px;
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 3px;
+}
+
+#formulario {
+
+}
+
+.button{
+    text-align: left;
+    font-size: 1em;
+}
